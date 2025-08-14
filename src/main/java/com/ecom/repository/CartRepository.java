@@ -23,3 +23,5 @@ public interface CartRepository extends JpaRepository<Cart, Integer> {
 	public void deleteByUser(UserDtls user);
 
 }
+
+// this is repository classes
